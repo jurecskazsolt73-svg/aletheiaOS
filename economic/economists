@@ -1,402 +1,402 @@
 [
   {
     "id": 1,
-    "theory": "Láthatatlan kéz"
+    "name": "Adam Smith"
   },
   {
     "id": 2,
-    "theory": "Munkamegosztás"
+    "name": "David Ricardo"
   },
   {
     "id": 3,
-    "theory": "Komparatív előny"
+    "name": "Thomas Malthus"
   },
   {
     "id": 4,
-    "theory": "Malthusi csapda"
+    "name": "Jean-Baptiste Say"
   },
   {
     "id": 5,
-    "theory": "Say-törvény"
+    "name": "John Stuart Mill"
   },
   {
     "id": 6,
-    "theory": "Munkaérték-elmélet"
+    "name": "Karl Marx"
   },
   {
     "id": 7,
-    "theory": "Határhaszon-elmélet"
+    "name": "Carl Menger"
   },
   {
     "id": 8,
-    "theory": "Általános egyensúlyelmélet"
+    "name": "William Stanley Jevons"
   },
   {
     "id": 9,
-    "theory": "Kereslet-kínálat görbe"
+    "name": "Léon Walras"
   },
   {
     "id": 10,
-    "theory": "Pareto-elv (80/20)"
+    "name": "Alfred Marshall"
   },
   {
     "id": 11,
-    "theory": "Feltűnő fogyasztás"
+    "name": "Vilfredo Pareto"
   },
   {
     "id": 12,
-    "theory": "Fisher-egyenlet"
+    "name": "Thorstein Veblen"
   },
   {
     "id": 13,
-    "theory": "Kreatív rombolás"
+    "name": "Irving Fisher"
   },
   {
     "id": 14,
-    "theory": "Keynesi keresletélénkítés"
+    "name": "Joseph Schumpeter"
   },
   {
     "id": 15,
-    "theory": "Likviditási csapda"
+    "name": "John Maynard Keynes"
   },
   {
     "id": 16,
-    "theory": "Osztrák üzleti cikluselmélet"
+    "name": "Friedrich Hayek"
   },
   {
     "id": 17,
-    "theory": "Monetarizmus"
+    "name": "Milton Friedman"
   },
   {
     "id": 18,
-    "theory": "Phillips-görbe"
+    "name": "Paul Samuelson"
   },
   {
     "id": 19,
-    "theory": "IS-LM modell"
+    "name": "John Hicks"
   },
   {
     "id": 20,
-    "theory": "Input-output modell"
+    "name": "Wassily Leontief"
   },
   {
     "id": 21,
-    "theory": "Coase-tétel"
+    "name": "Ronald Coase"
   },
   {
     "id": 22,
-    "theory": "Humántőke-elmélet"
+    "name": "Gary Becker"
   },
   {
     "id": 23,
-    "theory": "Korlátozott racionalitás"
+    "name": "Herbert Simon"
   },
   {
     "id": 24,
-    "theory": "Arrow-féle lehetetlenségi tétel"
+    "name": "Kenneth Arrow"
   },
   {
     "id": 25,
-    "theory": "Nash-egyensúly"
+    "name": "John Nash"
   },
   {
     "id": 26,
-    "theory": "Intézményi közgazdaságtan"
+    "name": "Douglass North"
   },
   {
     "id": 27,
-    "theory": "Public choice theory"
+    "name": "James Buchanan"
   },
   {
     "id": 28,
-    "theory": "Közlegelők kormányzása"
+    "name": "Elinor Ostrom"
   },
   {
     "id": 29,
-    "theory": "Solow-növekedési modell"
+    "name": "Robert Solow"
   },
   {
     "id": 30,
-    "theory": "Információs aszimmetria"
+    "name": "Joseph Stiglitz"
   },
   {
     "id": 31,
-    "theory": "Citrompiac-elmélet"
+    "name": "George Akerlof"
   },
   {
     "id": 32,
-    "theory": "Prospect theory"
+    "name": "Daniel Kahneman"
   },
   {
     "id": 33,
-    "theory": "Veszteségkerülés"
+    "name": "Amos Tversky"
   },
   {
     "id": 34,
-    "theory": "Nudge-elmélet"
+    "name": "Richard Thaler"
   },
   {
     "id": 35,
-    "theory": "Fekete hattyú-elmélet"
+    "name": "Nassim Nicholas Taleb"
   },
   {
     "id": 36,
-    "theory": "Minsky-pillanat"
+    "name": "Hyman Minsky"
   },
   {
     "id": 37,
-    "theory": "Fraktálpiac-elmélet"
+    "name": "Benoît Mandelbrot"
   },
   {
     "id": 38,
-    "theory": "Hatékony piacok hipotézise"
+    "name": "Eugene Fama"
   },
   {
     "id": 39,
-    "theory": "Irracionális túláradás"
+    "name": "Robert Shiller"
   },
   {
     "id": 40,
-    "theory": "Modern portfólióelmélet"
+    "name": "Harry Markowitz"
   },
   {
     "id": 41,
-    "theory": "CAPM modell"
+    "name": "William Sharpe"
   },
   {
     "id": 42,
-    "theory": "Indexbefektetés"
+    "name": "John Bogle"
   },
   {
     "id": 43,
-    "theory": "Reflexivitáselmélet"
+    "name": "George Soros"
   },
   {
     "id": 44,
-    "theory": "Gazdasági gépezet-ciklusok"
+    "name": "Ray Dalio"
   },
   {
     "id": 45,
-    "theory": "r > g egyenlőtlenségi modell"
+    "name": "Thomas Piketty"
   },
   {
     "id": 46,
-    "theory": "Inkluzív vs extraktív intézmények"
+    "name": "Daron Acemoglu"
   },
   {
     "id": 47,
-    "theory": "Randomizált fejlesztési kísérletek"
+    "name": "Esther Duflo"
   },
   {
     "id": 48,
-    "theory": "Mikrofinanszírozás"
+    "name": "Abhijit Banerjee"
   },
   {
     "id": 49,
-    "theory": "Ökonometria"
+    "name": "Muhammad Yunus"
   },
   {
     "id": 50,
-    "theory": "Tökéletlen verseny"
+    "name": "Jan Tinbergen"
   },
   {
     "id": 51,
-    "theory": "Kalecki-profitegyenlet"
+    "name": "Ragnar Frisch"
   },
   {
     "id": 52,
-    "theory": "Kaldor-féle növekedési törvények"
+    "name": "Joan Robinson"
   },
   {
     "id": 53,
-    "theory": "Laffer-görbe"
+    "name": "Michal Kalecki"
   },
   {
     "id": 54,
-    "theory": "Racionális várakozások"
+    "name": "Nicholas Kaldor"
   },
   {
     "id": 55,
-    "theory": "Játékelméleti stratégiai konfliktus"
+    "name": "Arthur Laffer"
   },
   {
     "id": 56,
-    "theory": "Reál üzleti cikluselmélet"
+    "name": "Robert Lucas Jr."
   },
   {
     "id": 57,
-    "theory": "Időinkonzisztencia-elmélet"
+    "name": "Thomas Schelling"
   },
   {
     "id": 58,
-    "theory": "Életciklus-hipotézis"
+    "name": "Edward Prescott"
   },
   {
     "id": 59,
-    "theory": "Modigliani–Miller-tétel"
+    "name": "Finn Kydland"
   },
   {
     "id": 60,
-    "theory": "Black–Scholes modell"
+    "name": "Franco Modigliani"
   },
   {
     "id": 61,
-    "theory": "Opcióárazás"
+    "name": "Merton Miller"
   },
   {
     "id": 62,
-    "theory": "Végső hitelező szerep"
+    "name": "Myron Scholes"
   },
   {
     "id": 63,
-    "theory": "Pénzügyi buborékmodell"
+    "name": "Fischer Black"
   },
   {
     "id": 64,
-    "theory": "Adósságválság-ciklusok"
+    "name": "Robert Merton"
   },
   {
     "id": 65,
-    "theory": "Gazdasági kalkulációs probléma"
+    "name": "Walter Bagehot"
   },
   {
     "id": 66,
-    "theory": "Anarchokapitalizmus"
+    "name": "Charles Kindleberger"
   },
   {
     "id": 67,
-    "theory": "Vállalkozói felfedezéselmélet"
+    "name": "Carmen Reinhart"
   },
   {
     "id": 68,
-    "theory": "Cantillon-hatás"
+    "name": "Kenneth Rogoff"
   },
   {
     "id": 69,
-    "theory": "Fiziokrácia"
+    "name": "Ludwig von Mises"
   },
   {
     "id": 70,
-    "theory": "Csökkenő hozadék törvénye"
+    "name": "Murray Rothbard"
   },
   {
     "id": 71,
-    "theory": "Piacszabályozás és platformelmélet"
+    "name": "Israel Kirzner"
   },
   {
     "id": 72,
-    "theory": "Tranzakciós költségelmélet"
+    "name": "Richard Cantillon"
   },
   {
     "id": 73,
-    "theory": "Öt versenyerő modell"
+    "name": "François Quesnay"
   },
   {
     "id": 74,
-    "theory": "Diszruptív innováció"
+    "name": "Anne Robert Jacques Turgot"
   },
   {
     "id": 75,
-    "theory": "Menedzsment by objectives"
+    "name": "Jean Tirole"
   },
   {
     "id": 76,
-    "theory": "Marketing mix (4P)"
+    "name": "Oliver Williamson"
   },
   {
     "id": 77,
-    "theory": "Minőség trilógia"
+    "name": "Michael Porter"
   },
   {
     "id": 78,
-    "theory": "PDCA ciklus"
+    "name": "Clayton Christensen"
   },
   {
     "id": 79,
-    "theory": "Ishikawa-diagram"
+    "name": "Peter Drucker"
   },
   {
     "id": 80,
-    "theory": "Lean termelés"
+    "name": "Philip Kotler"
   },
   {
     "id": 81,
-    "theory": "Just-in-time rendszer"
+    "name": "Joseph Juran"
   },
   {
     "id": 82,
-    "theory": "Crossing the Chasm"
+    "name": "W. Edwards Deming"
   },
   {
     "id": 83,
-    "theory": "Long Tail elmélet"
+    "name": "Kaoru Ishikawa"
   },
   {
     "id": 84,
-    "theory": "Előfizetéses üzleti modell"
+    "name": "Taiichi Ohno"
   },
   {
     "id": 85,
-    "theory": "Flywheel modell"
+    "name": "Shigeo Shingo"
   },
   {
     "id": 86,
-    "theory": "Growth investing"
+    "name": "Geoffrey Moore"
   },
   {
     "id": 87,
-    "theory": "Értékalapú befektetés"
+    "name": "Chris Anderson"
   },
   {
     "id": 88,
-    "theory": "Mental models"
+    "name": "Reed Hastings"
   },
   {
     "id": 89,
-    "theory": "Piaci ciklusok pszichológiája"
+    "name": "Jeff Bezos"
   },
   {
     "id": 90,
-    "theory": "Third Place koncepció"
+    "name": "Peter Lynch"
   },
   {
     "id": 91,
-    "theory": "Vertikális integráció"
+    "name": "Warren Buffett"
   },
   {
     "id": 92,
-    "theory": "Fordizmus"
+    "name": "Charlie Munger"
   },
   {
     "id": 93,
-    "theory": "Kaizen"
+    "name": "Howard Marks"
   },
   {
     "id": 94,
-    "theory": "Platformgazdaság"
+    "name": "Howard Schultz"
   },
   {
     "id": 95,
-    "theory": "Hálózati hatás"
+    "name": "Andrew Carnegie"
   },
   {
     "id": 96,
-    "theory": "Winner-takes-all piac"
+    "name": "John D. Rockefeller"
   },
   {
     "id": 97,
-    "theory": "Attention economy"
+    "name": "Henry Ford"
   },
   {
     "id": 98,
-    "theory": "Surveillance capitalism"
+    "name": "Akio Morita"
   },
   {
     "id": 99,
-    "theory": "Token economy"
+    "name": "Jack Welch"
   },
   {
     "id": 100,
-    "theory": "AI-driven economy"
+    "name": "Elon Musk"
   }
 ]
