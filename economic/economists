@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "theory": "Láthatatlan kéz"
+  },
+  {
+    "id": 2,
+    "theory": "Munkamegosztás"
+  },
+  {
+    "id": 3,
+    "theory": "Komparatív előny"
+  },
+  {
+    "id": 4,
+    "theory": "Malthusi csapda"
+  },
+  {
+    "id": 5,
+    "theory": "Say-törvény"
+  },
+  {
+    "id": 6,
+    "theory": "Munkaérték-elmélet"
+  },
+  {
+    "id": 7,
+    "theory": "Határhaszon-elmélet"
+  },
+  {
+    "id": 8,
+    "theory": "Általános egyensúlyelmélet"
+  },
+  {
+    "id": 9,
+    "theory": "Kereslet-kínálat görbe"
+  },
+  {
+    "id": 10,
+    "theory": "Pareto-elv (80/20)"
+  },
+  {
+    "id": 11,
+    "theory": "Feltűnő fogyasztás"
+  },
+  {
+    "id": 12,
+    "theory": "Fisher-egyenlet"
+  },
+  {
+    "id": 13,
+    "theory": "Kreatív rombolás"
+  },
+  {
+    "id": 14,
+    "theory": "Keynesi keresletélénkítés"
+  },
+  {
+    "id": 15,
+    "theory": "Likviditási csapda"
+  },
+  {
+    "id": 16,
+    "theory": "Osztrák üzleti cikluselmélet"
+  },
+  {
+    "id": 17,
+    "theory": "Monetarizmus"
+  },
+  {
+    "id": 18,
+    "theory": "Phillips-görbe"
+  },
+  {
+    "id": 19,
+    "theory": "IS-LM modell"
+  },
+  {
+    "id": 20,
+    "theory": "Input-output modell"
+  },
+  {
+    "id": 21,
+    "theory": "Coase-tétel"
+  },
+  {
+    "id": 22,
+    "theory": "Humántőke-elmélet"
+  },
+  {
+    "id": 23,
+    "theory": "Korlátozott racionalitás"
+  },
+  {
+    "id": 24,
+    "theory": "Arrow-féle lehetetlenségi tétel"
+  },
+  {
+    "id": 25,
+    "theory": "Nash-egyensúly"
+  },
+  {
+    "id": 26,
+    "theory": "Intézményi közgazdaságtan"
+  },
+  {
+    "id": 27,
+    "theory": "Public choice theory"
+  },
+  {
+    "id": 28,
+    "theory": "Közlegelők kormányzása"
+  },
+  {
+    "id": 29,
+    "theory": "Solow-növekedési modell"
+  },
+  {
+    "id": 30,
+    "theory": "Információs aszimmetria"
+  },
+  {
+    "id": 31,
+    "theory": "Citrompiac-elmélet"
+  },
+  {
+    "id": 32,
+    "theory": "Prospect theory"
+  },
+  {
+    "id": 33,
+    "theory": "Veszteségkerülés"
+  },
+  {
+    "id": 34,
+    "theory": "Nudge-elmélet"
+  },
+  {
+    "id": 35,
+    "theory": "Fekete hattyú-elmélet"
+  },
+  {
+    "id": 36,
+    "theory": "Minsky-pillanat"
+  },
+  {
+    "id": 37,
+    "theory": "Fraktálpiac-elmélet"
+  },
+  {
+    "id": 38,
+    "theory": "Hatékony piacok hipotézise"
+  },
+  {
+    "id": 39,
+    "theory": "Irracionális túláradás"
+  },
+  {
+    "id": 40,
+    "theory": "Modern portfólióelmélet"
+  },
+  {
+    "id": 41,
+    "theory": "CAPM modell"
+  },
+  {
+    "id": 42,
+    "theory": "Indexbefektetés"
+  },
+  {
+    "id": 43,
+    "theory": "Reflexivitáselmélet"
+  },
+  {
+    "id": 44,
+    "theory": "Gazdasági gépezet-ciklusok"
+  },
+  {
+    "id": 45,
+    "theory": "r > g egyenlőtlenségi modell"
+  },
+  {
+    "id": 46,
+    "theory": "Inkluzív vs extraktív intézmények"
+  },
+  {
+    "id": 47,
+    "theory": "Randomizált fejlesztési kísérletek"
+  },
+  {
+    "id": 48,
+    "theory": "Mikrofinanszírozás"
+  },
+  {
+    "id": 49,
+    "theory": "Ökonometria"
+  },
+  {
+    "id": 50,
+    "theory": "Tökéletlen verseny"
+  },
+  {
+    "id": 51,
+    "theory": "Kalecki-profitegyenlet"
+  },
+  {
+    "id": 52,
+    "theory": "Kaldor-féle növekedési törvények"
+  },
+  {
+    "id": 53,
+    "theory": "Laffer-görbe"
+  },
+  {
+    "id": 54,
+    "theory": "Racionális várakozások"
+  },
+  {
+    "id": 55,
+    "theory": "Játékelméleti stratégiai konfliktus"
+  },
+  {
+    "id": 56,
+    "theory": "Reál üzleti cikluselmélet"
+  },
+  {
+    "id": 57,
+    "theory": "Időinkonzisztencia-elmélet"
+  },
+  {
+    "id": 58,
+    "theory": "Életciklus-hipotézis"
+  },
+  {
+    "id": 59,
+    "theory": "Modigliani–Miller-tétel"
+  },
+  {
+    "id": 60,
+    "theory": "Black–Scholes modell"
+  },
+  {
+    "id": 61,
+    "theory": "Opcióárazás"
+  },
+  {
+    "id": 62,
+    "theory": "Végső hitelező szerep"
+  },
+  {
+    "id": 63,
+    "theory": "Pénzügyi buborékmodell"
+  },
+  {
+    "id": 64,
+    "theory": "Adósságválság-ciklusok"
+  },
+  {
+    "id": 65,
+    "theory": "Gazdasági kalkulációs probléma"
+  },
+  {
+    "id": 66,
+    "theory": "Anarchokapitalizmus"
+  },
+  {
+    "id": 67,
+    "theory": "Vállalkozói felfedezéselmélet"
+  },
+  {
+    "id": 68,
+    "theory": "Cantillon-hatás"
+  },
+  {
+    "id": 69,
+    "theory": "Fiziokrácia"
+  },
+  {
+    "id": 70,
+    "theory": "Csökkenő hozadék törvénye"
+  },
+  {
+    "id": 71,
+    "theory": "Piacszabályozás és platformelmélet"
+  },
+  {
+    "id": 72,
+    "theory": "Tranzakciós költségelmélet"
+  },
+  {
+    "id": 73,
+    "theory": "Öt versenyerő modell"
+  },
+  {
+    "id": 74,
+    "theory": "Diszruptív innováció"
+  },
+  {
+    "id": 75,
+    "theory": "Menedzsment by objectives"
+  },
+  {
+    "id": 76,
+    "theory": "Marketing mix (4P)"
+  },
+  {
+    "id": 77,
+    "theory": "Minőség trilógia"
+  },
+  {
+    "id": 78,
+    "theory": "PDCA ciklus"
+  },
+  {
+    "id": 79,
+    "theory": "Ishikawa-diagram"
+  },
+  {
+    "id": 80,
+    "theory": "Lean termelés"
+  },
+  {
+    "id": 81,
+    "theory": "Just-in-time rendszer"
+  },
+  {
+    "id": 82,
+    "theory": "Crossing the Chasm"
+  },
+  {
+    "id": 83,
+    "theory": "Long Tail elmélet"
+  },
+  {
+    "id": 84,
+    "theory": "Előfizetéses üzleti modell"
+  },
+  {
+    "id": 85,
+    "theory": "Flywheel modell"
+  },
+  {
+    "id": 86,
+    "theory": "Growth investing"
+  },
+  {
+    "id": 87,
+    "theory": "Értékalapú befektetés"
+  },
+  {
+    "id": 88,
+    "theory": "Mental models"
+  },
+  {
+    "id": 89,
+    "theory": "Piaci ciklusok pszichológiája"
+  },
+  {
+    "id": 90,
+    "theory": "Third Place koncepció"
+  },
+  {
+    "id": 91,
+    "theory": "Vertikális integráció"
+  },
+  {
+    "id": 92,
+    "theory": "Fordizmus"
+  },
+  {
+    "id": 93,
+    "theory": "Kaizen"
+  },
+  {
+    "id": 94,
+    "theory": "Platformgazdaság"
+  },
+  {
+    "id": 95,
+    "theory": "Hálózati hatás"
+  },
+  {
+    "id": 96,
+    "theory": "Winner-takes-all piac"
+  },
+  {
+    "id": 97,
+    "theory": "Attention economy"
+  },
+  {
+    "id": 98,
+    "theory": "Surveillance capitalism"
+  },
+  {
+    "id": 99,
+    "theory": "Token economy"
+  },
+  {
+    "id": 100,
+    "theory": "AI-driven economy"
+  }
+]
