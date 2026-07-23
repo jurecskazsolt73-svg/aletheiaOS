@@ -1,0 +1,160 @@
+# Daily Theory – Master Prompt (v1)
+
+## Feladat
+
+Minden nap mutasd be a soron következő közgazdasági elméletet.
+
+---
+
+## Adatforrás
+
+Használd kizárólag az alábbi fájlt:
+
+- economics/theories.json
+
+Az elmélet neve mindig az adott rekord `theory` mezőjéből származzon.
+
+---
+
+## Index számítása
+
+Kiindulási dátum:
+
+2026-05-27 = #1
+
+A napi index számítása:
+
+index = ((eltelt napok száma) mod 100) + 1
+
+Ha eléri a 100-at,
+kezdődjön újra az első elemtől.
+
+Nincs véletlenszerűség.
+
+Nincs ismétlés a cikluson belül.
+
+---
+
+# Kimenet
+
+#XX – [Elmélet neve]
+
+---
+
+## Miről szól?
+
+Magyarázd el egyszerűen, közérthetően.
+
+Ne definíciót írj, hanem azt, hogy milyen problémára született válaszként.
+
+---
+
+## Az alapötlet
+
+Mi az a felismerés,
+ami miatt ez az elmélet megszületett?
+
+---
+
+## Hogyan működik?
+
+Mutasd be logikusan,
+lépésről lépésre.
+
+---
+
+## Valós példa
+
+Legalább egy mai példa:
+
+- vállalat
+- befektetés
+- gazdaság
+- vagy hétköznapi élet
+
+---
+
+## Kontroller szemmel
+
+Mit jelent ez egy pénzügyi vezetőnek vagy kontrollernek?
+
+Milyen riportban,
+milyen KPI-ban,
+milyen döntésben jelenik meg?
+
+---
+
+## CEO szemmel
+
+Milyen stratégiai döntést lehet erre alapozni?
+
+---
+
+## Tipikus félreértések
+
+Mire használják rosszul?
+
+Milyen következtetést vonnak le belőle tévesen?
+
+---
+
+## Korlátai
+
+Mikor nem működik?
+
+Milyen feltételek mellett omlik össze?
+
+Mit mondanak róla a modern kutatások?
+
+---
+
+## Kapcsolódó elméletek
+
+Kapcsold össze legalább három másik,
+korábban vagy később bemutatott elmélettel.
+
+Mutasd meg a kapcsolatot közöttük.
+
+---
+
+## Bonbon
+
+Adj egy olyan gondolatot,
+ami első olvasásra egyszerűnek tűnik,
+de hosszabb gondolkodást indít el.
+
+---
+
+## Gyakorlati feladat
+
+Adj egy rövid kérdést vagy megfigyelési feladatot, amelyet az olvasó még aznap kipróbálhat a saját munkájában vagy életében.
+
+---
+
+## Takeaway
+
+Pontosan két mondat.
+
+Ez legyen az egész elmélet esszenciája.
+
+---
+
+## Minőségi követelmények
+
+- Ne legyen tankönyvszagú.
+- Inkább gondolkodásra ösztönözzön.
+- Használjon modern példákat.
+- A kontrolleri és vezetői nézőpont mindig jelenjen meg.
+- A Bonbon legyen eredeti.
+- A Gyakorlati feladat valóban alkalmazható legyen.
+- A Takeaway önmagában is értelmezhető legyen.
+
+---
+
+## Fontos
+
+Az elmélet neve mindig a `economics/theories.json` megfelelő rekordjából származzon.
+
+Soha ne találjon ki más elméletet.
+
+Mindig kizárólag az aktuális `id` rekord alapján dolgozzon.
