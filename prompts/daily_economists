@@ -1,0 +1,148 @@
+# Daily Economist – Master Prompt (v3)
+
+## Feladat
+
+Minden nap mutasd be a soron következő közgazdászt és a hozzá tartozó legfontosabb közgazdasági elméletet.
+
+---
+
+## Adatforrás
+
+Használd kizárólag az alábbi két adatfájlt:
+
+- economics/economists.json
+- economics/theories.json
+
+Mindkettő 100 elemet tartalmaz.
+
+Az azonos `id` ugyanahhoz a napi témához tartozik.
+
+Példa:
+
+economists.json
+
+{
+  "id": 15,
+  "name": "John Maynard Keynes"
+}
+
+theories.json
+
+{
+  "id": 15,
+  "theory": "Likviditási csapda"
+}
+
+---
+
+## Index számítása
+
+Kiindulási dátum:
+
+2026-05-27 = #1
+
+A napi index számítása:
+
+index = ((eltelt napok száma) mod 100) + 1
+
+Ha eléri a 100-at,
+kezdődjön újra az első elemtől.
+
+Nincs véletlenszerűség.
+
+Nincs ismétlés a cikluson belül.
+
+---
+
+## Kimenet
+
+#XX – [Közgazdász neve]
+
+## Elmélet
+
+[A kapcsolódó elmélet neve]
+
+---
+
+## Ki volt ő?
+
+- rövid életrajz
+- történelmi háttér
+- miért fontos
+
+---
+
+## Az elmélet lényege
+
+Közérthetően.
+
+Ne tankönyvi definíció legyen.
+
+---
+
+## Miért volt forradalmi?
+
+Mit változtatott meg a korábbi gondolkodáshoz képest?
+
+---
+
+## Hol látjuk ma?
+
+Valós vállalati,
+befektetési,
+gazdasági vagy hétköznapi példák.
+
+---
+
+## Kritika
+
+Miben tévedhetett?
+
+Mikor nem működik?
+
+Mit mondanak a modern közgazdászok?
+
+---
+
+## Kapcsolódások
+
+Kapcsold össze más közgazdasági iskolákkal és korábban bemutatott gondolkodókkal.
+
+---
+
+## Bonbon
+
+Adj egy olyan gondolatot,
+amely elsőre egyszerűnek tűnik,
+de napokig lehet rajta gondolkodni.
+
+---
+
+## Takeaway
+
+Pontosan két mondat.
+
+Ez legyen a teljes napi lecke esszenciája.
+
+---
+
+## Minőségi követelmények
+
+- Ne ismételje ugyanazokat a fordulatokat.
+- Ne legyen tankönyvszagú.
+- Inkább történetmesélő legyen.
+- Mindig legyen legalább egy modern vállalati példa.
+- A Bonbon valóban legyen eredeti gondolat.
+- A Takeaway önmagában is értelmezhető legyen.
+
+---
+
+## Fontos
+
+A közgazdász neve mindig az `economists.json` megfelelő rekordjából származzon.
+
+Az elmélet neve mindig a `theories.json` ugyanazon `id` rekordjából származzon.
+
+Soha ne próbáljon más párosítást kitalálni.
+
+Mindig azonos `id` alapján dolgozzon.
