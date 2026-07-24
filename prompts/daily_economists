@@ -1,130 +1,216 @@
-# Daily Economist – Master Prompt (v3)
+# DAILY ECONOMIST – ALETHEIA OS (v2)
 
-## Feladat
+Feladatod egy napi közgazdász bemutatása.
 
-Minden nap mutasd be a soron következő közgazdászt és a hozzá tartozó legfontosabb közgazdasági elméletet.
+Az adott közgazdászt az `economic/economists` fájlból olvasd ki a mai rekord alapján.
 
----
+A cél NEM egy életrajz megírása.
 
-## Adatforrás
+A cél az, hogy az olvasó megértse:
 
-Használd kizárólag az alábbi két adatfájlt:
+- milyen problémát látott meg,
+- hogyan gondolkodott,
+- miért változtatta meg a világot,
+- és mit tanulhat tőle vezetőként.
 
-- economics/economists.json
-- economics/theories.json
+Ne írj lexikont.
 
-Mindkettő 100 elemet tartalmaz.
-
-Az azonos `id` ugyanahhoz a napi témához tartozik.
-
-Példa:
-
-economists.json
-
-{
-  "id": 15,
-  "name": "John Maynard Keynes"
-}
-
-theories.json
-
-{
-  "id": 15,
-  "theory": "Likviditási csapda"
-}
+Taníts gondolkodni.
 
 ---
 
-## Index számítása
+# 1. Ki volt ő?
 
-Kiindulási dátum:
+Röviden mutasd be.
 
-2026-05-27 = #1
+Ne a dátumokra koncentrálj.
 
-A napi index számítása:
-
-index = ((eltelt napok száma) mod 100) + 1
-
-Ha eléri a 100-at,
-kezdődjön újra az első elemtől.
-
-Nincs véletlenszerűség.
-
-Nincs ismétlés a cikluson belül.
+Mutasd meg az embert.
 
 ---
 
-## Kimenet
+# 2. Mi zavarta?
 
-#XX – [Közgazdász neve]
+Milyen problémát látott a világban?
 
-## Elmélet
+Mi volt az a kérdés,
 
-[A kapcsolódó elmélet neve]
-
----
-
-## Ki volt ő?
-
-- rövid életrajz
-- történelmi háttér
-- miért fontos
+amire mindenki rossz választ adott?
 
 ---
 
-## Az elmélet lényege
+# 3. A nagy felismerés
 
-Közérthetően.
+Mi volt az az egy gondolat,
 
-Ne tankönyvi definíció legyen.
+amely örökre összekapcsolódott a nevével?
 
----
+Ha csak egyetlen bekezdés maradhatna fenn róla,
 
-## Miért volt forradalmi?
-
-Mit változtatott meg a korábbi gondolkodáshoz képest?
+ez legyen az.
 
 ---
 
-## Hol látjuk ma?
+# 4. Hogyan jutott el idáig?
 
-Valós vállalati,
-befektetési,
-gazdasági vagy hétköznapi példák.
+Volt-e személyes élmény,
 
----
+vita,
 
-## Kritika
+gazdasági válság,
 
-Miben tévedhetett?
+kutatás,
 
-Mikor nem működik?
+vagy történelmi esemény,
 
-Mit mondanak a modern közgazdászok?
+ami ehhez a felismeréshez vezette?
 
 ---
 
-## Kapcsolódások
+# 5. Miért volt forradalmi?
 
-Kapcsold össze más közgazdasági iskolákkal és korábban bemutatott gondolkodókkal.
+Miért nem gondolta ezt senki korábban?
 
----
-
-## Bonbon
-
-Adj egy olyan gondolatot,
-amely elsőre egyszerűnek tűnik,
-de napokig lehet rajta gondolkodni.
+Mit változtatott meg?
 
 ---
 
-## Takeaway
+# 6. CEO-szem
 
-Pontosan két mondat.
+Ha ez a közgazdász ma egy 2 milliárd Ft árbevételű vállalat vezérigazgatója lenne,
 
-Ez legyen a teljes napi lecke esszenciája.
+milyen vezetői döntést hozna másképp?
 
 ---
+
+# 7. Kontroller-szem
+
+Ha FP&A vezető lenne,
+
+mely riportokat,
+
+mely KPI-okat,
+
+mely elemzéseket építené fel először?
+
+Mit mérne?
+
+Mit tartana zajnak?
+
+---
+
+# 8. Mikor tévedhet?
+
+Mely állításait cáfolta később a tudomány?
+
+Milyen korlátai vannak?
+
+Miben volt túl optimista vagy túl egyszerű?
+
+---
+
+# 9. Az ellenfél
+
+Ki vitatkozott vele?
+
+Melyik iskola képviselte a legerősebb ellenérvet?
+
+Mutasd be mindkét oldalt tisztességesen.
+
+---
+
+# 10. Manipuláció
+
+Hogyan használják félre ma az ő gondolatait?
+
+Milyen politikai,
+
+üzleti,
+
+vagy tanácsadói torzítások kapcsolódnak hozzá?
+
+---
+
+# 11. Aletheia
+
+Ha ez a közgazdász részt venne az Aletheia OS építésében,
+
+milyen döntési szabályt kérne,
+
+hogy minden vállalat automatikusan kövessen?
+
+---
+
+# 12. Kapcsolódások
+
+Kapcsold össze legalább három korábban tanult közgazdásszal vagy elmélettel.
+
+Mutasd meg,
+
+hogyan épül egymásra a gondolkodásuk.
+
+Az olvasó érezze,
+
+hogy a közgazdaságtan egyetlen nagy beszélgetés,
+
+nem különálló életrajzok gyűjteménye.
+
+---
+
+# 13. 80–20
+
+Mi az a 20%,
+
+amit ha megértek ebből az emberből,
+
+akkor a gondolkodásának 80%-át már megértettem?
+
+---
+
+# 14. Bonbon
+
+Egyetlen erős,
+
+idézhető gondolat.
+
+Maximum két mondat.
+
+---
+
+# 15. Gyakorlati feladat
+
+Adj egy olyan kérdést,
+
+amit az olvasó még ma feltehet saját cégének,
+
+riportjainak,
+
+vagy vezetői döntéseinek.
+
+---
+
+# 16. Takeaway
+
+Ha holnapra csak egyetlen mondat maradhatna meg erről az emberről,
+
+mi lenne az?
+
+---
+
+Ha ma 30 percet beszélgethetnél vele...
+Ebben az AI egyetlen kérdést fogalmaz meg, amit a legszívesebben feltenne az adott közgazdásznak, majd megpróbál válaszolni rá az életműve alapján.
+
+---
+
+## Stílus
+
+- Ne írj tankönyvet.
+- Ne írj életrajzot.
+- Gondolkodást taníts.
+- Minden fejezet adjon új nézőpontot.
+- Ne ismételd önmagad.
+- Írj úgy, hogy CEO-k, kontrollerek és tanácsadók egyaránt értéket kapjanak.
+- Törekedj eredeti, emlékezetes megfogalmazásokra.
 
 ## Minőségi követelmények
 
