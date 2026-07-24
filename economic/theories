@@ -298,105 +298,208 @@
   {
     "id": 75,
     "theory": "Menedzsment by objectives"
-  },
-  {
+{
+    "id": 50,
+    "theory": "Ökonometria"
+},
+{
+    "id": 51,
+    "theory": "Ökonometriai modellezés"
+},
+{
+    "id": 52,
+    "theory": "Tökéletlen verseny"
+},
+{
+    "id": 53,
+    "theory": "Kalecki-profitegyenlet"
+},
+{
+    "id": 54,
+    "theory": "Kaldor-féle növekedési törvények"
+},
+{
+    "id": 55,
+    "theory": "Laffer-görbe"
+},
+{
+    "id": 56,
+    "theory": "Racionális várakozások"
+},
+{
+    "id": 57,
+    "theory": "Játékelméleti stratégiai konfliktus"
+},
+{
+    "id": 58,
+    "theory": "Reál üzleti cikluselmélet"
+},
+{
+    "id": 59,
+    "theory": "Időinkonzisztencia-elmélet"
+},
+{
+    "id": 60,
+    "theory": "Életciklus-hipotézis"
+},
+{
+    "id": 61,
+    "theory": "Modigliani–Miller-tétel"
+},
+{
+    "id": 62,
+    "theory": "Black–Scholes modell"
+},
+{
+    "id": 63,
+    "theory": "Opcióárazás"
+},
+{
+    "id": 64,
+    "theory": "Folytonos idejű opcióárazás"
+},
+{
+    "id": 65,
+    "theory": "Végső hitelező szerep"
+},
+{
+    "id": 66,
+    "theory": "Pénzügyi buborékmodell"
+},
+{
+    "id": 67,
+    "theory": "Adósságválság-ciklusok"
+},
+{
+    "id": 68,
+    "theory": "Államadósság és növekedés"
+},
+{
+    "id": 69,
+    "theory": "Gazdasági kalkulációs probléma"
+},
+{
+    "id": 70,
+    "theory": "Anarchokapitalizmus"
+},
+{
+    "id": 71,
+    "theory": "Vállalkozói felfedezéselmélet"
+},
+{
+    "id": 72,
+    "theory": "Cantillon-hatás"
+},
+{
+    "id": 73,
+    "theory": "Fiziokrácia"
+},
+{
+    "id": 74,
+    "theory": "Csökkenő hozadék törvénye"
+},
+{
+    "id": 75,
+    "theory": "Piacszabályozás és platformelmélet"
+},
+{
     "id": 76,
-    "theory": "Marketing mix (4P)"
-  },
-  {
+    "theory": "Tranzakciós költségelmélet"
+},
+{
     "id": 77,
-    "theory": "Minőség trilógia"
-  },
-  {
+    "theory": "Öt versenyerő modell"
+},
+{
     "id": 78,
-    "theory": "PDCA ciklus"
-  },
-  {
+    "theory": "Diszruptív innováció"
+},
+{
     "id": 79,
-    "theory": "Ishikawa-diagram"
-  },
-  {
+    "theory": "Management by Objectives (MBO)"
+},
+{
     "id": 80,
-    "theory": "Lean termelés"
-  },
-  {
+    "theory": "Marketing Mix (4P)"
+},
+{
     "id": 81,
-    "theory": "Just-in-time rendszer"
-  },
-  {
+    "theory": "Minőség trilógia"
+},
+{
     "id": 82,
-    "theory": "Crossing the Chasm"
-  },
-  {
+    "theory": "PDCA ciklus"
+},
+{
     "id": 83,
-    "theory": "Long Tail elmélet"
-  },
-  {
+    "theory": "Ishikawa-diagram"
+},
+{
     "id": 84,
-    "theory": "Előfizetéses üzleti modell"
-  },
-  {
+    "theory": "Lean termelés"
+},
+{
     "id": 85,
-    "theory": "Flywheel modell"
-  },
-  {
+    "theory": "Just-in-Time rendszer"
+},
+{
     "id": 86,
-    "theory": "Growth investing"
-  },
-  {
+    "theory": "Crossing the Chasm"
+},
+{
     "id": 87,
-    "theory": "Értékalapú befektetés"
-  },
-  {
+    "theory": "Long Tail elmélet"
+},
+{
     "id": 88,
-    "theory": "Mental models"
-  },
-  {
+    "theory": "Előfizetéses üzleti modell"
+},
+{
     "id": 89,
-    "theory": "Piaci ciklusok pszichológiája"
-  },
-  {
+    "theory": "Flywheel modell"
+},
+{
     "id": 90,
-    "theory": "Third Place koncepció"
-  },
-  {
+    "theory": "Growth Investing"
+},
+{
     "id": 91,
-    "theory": "Vertikális integráció"
-  },
-  {
+    "theory": "Értékalapú befektetés"
+},
+{
     "id": 92,
-    "theory": "Fordizmus"
-  },
-  {
+    "theory": "Mental Models"
+},
+{
     "id": 93,
-    "theory": "Kaizen"
-  },
-  {
+    "theory": "Piaci ciklusok pszichológiája"
+},
+{
     "id": 94,
-    "theory": "Platformgazdaság"
-  },
-  {
+    "theory": "Third Place koncepció"
+},
+{
     "id": 95,
-    "theory": "Hálózati hatás"
-  },
-  {
+    "theory": "Vertikális integráció"
+},
+{
     "id": 96,
-    "theory": "Winner-takes-all piac"
-  },
-  {
+    "theory": "Horizontális integráció"
+},
+{
     "id": 97,
-    "theory": "Attention economy"
-  },
-  {
+    "theory": "Fordizmus"
+},
+{
     "id": 98,
-    "theory": "Surveillance capitalism"
-  },
-  {
+    "theory": "Innovációvezérelt vállalatépítés"
+},
+{
     "id": 99,
-    "theory": "Token economy"
-  },
-  {
+    "theory": "Six Sigma és teljesítményorientált menedzsment"
+},
+{
     "id": 100,
-    "theory": "AI-driven economy"
-  }
+    "theory": "First Principles Thinking"
+}
 ]
