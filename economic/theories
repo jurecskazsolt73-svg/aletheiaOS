@@ -101,100 +101,202 @@
   },
   {
     "id": 26,
+{
+    "id": 1,
+    "theory": "Munkamegosztás"
+},
+{
+    "id": 2,
+    "theory": "Komparatív előny"
+},
+{
+    "id": 3,
+    "theory": "Malthusi csapda"
+},
+{
+    "id": 4,
+    "theory": "Say-törvény"
+},
+{
+    "id": 5,
+    "theory": "Haszonelvűség"
+},
+{
+    "id": 6,
+    "theory": "Munkaérték-elmélet"
+},
+{
+    "id": 7,
+    "theory": "Határhaszon-elmélet"
+},
+{
+    "id": 8,
+    "theory": "Szubjektív értékelmélet"
+},
+{
+    "id": 9,
+    "theory": "Általános egyensúlyelmélet"
+},
+{
+    "id": 10,
+    "theory": "Kereslet–kínálat modell"
+},
+{
+    "id": 11,
+    "theory": "Pareto-elv (80/20)"
+},
+{
+    "id": 12,
+    "theory": "Feltűnő fogyasztás"
+},
+{
+    "id": 13,
+    "theory": "Fisher-egyenlet"
+},
+{
+    "id": 14,
+    "theory": "Kreatív rombolás"
+},
+{
+    "id": 15,
+    "theory": "Keynesi keresletélénkítés"
+},
+{
+    "id": 16,
+    "theory": "Osztrák üzleti cikluselmélet"
+},
+{
+    "id": 17,
+    "theory": "Monetarizmus"
+},
+{
+    "id": 18,
+    "theory": "Phillips-görbe"
+},
+{
+    "id": 19,
+    "theory": "IS–LM modell"
+},
+{
+    "id": 20,
+    "theory": "Input–output modell"
+},
+{
+    "id": 21,
+    "theory": "Coase-tétel"
+},
+{
+    "id": 22,
+    "theory": "Humántőke-elmélet"
+},
+{
+    "id": 23,
+    "theory": "Korlátozott racionalitás"
+},
+{
+    "id": 24,
+    "theory": "Arrow-féle lehetetlenségi tétel"
+},
+{
+    "id": 25,
+    "theory": "Nash-egyensúly"
+},
+{
+    "id": 26,
     "theory": "Intézményi közgazdaságtan"
-  },
-  {
+},
+{
     "id": 27,
-    "theory": "Public choice theory"
-  },
-  {
+    "theory": "Public Choice Theory"
+},
+{
     "id": 28,
     "theory": "Közlegelők kormányzása"
-  },
-  {
+},
+{
     "id": 29,
     "theory": "Solow-növekedési modell"
-  },
-  {
+},
+{
     "id": 30,
     "theory": "Információs aszimmetria"
-  },
-  {
+},
+{
     "id": 31,
     "theory": "Citrompiac-elmélet"
-  },
-  {
+},
+{
     "id": 32,
-    "theory": "Prospect theory"
-  },
-  {
+    "theory": "Prospect Theory"
+},
+{
     "id": 33,
     "theory": "Veszteségkerülés"
-  },
-  {
+},
+{
     "id": 34,
     "theory": "Nudge-elmélet"
-  },
-  {
+},
+{
     "id": 35,
     "theory": "Fekete hattyú-elmélet"
-  },
-  {
+},
+{
     "id": 36,
     "theory": "Minsky-pillanat"
-  },
-  {
+},
+{
     "id": 37,
     "theory": "Fraktálpiac-elmélet"
-  },
-  {
+},
+{
     "id": 38,
     "theory": "Hatékony piacok hipotézise"
-  },
-  {
+},
+{
     "id": 39,
     "theory": "Irracionális túláradás"
-  },
-  {
+},
+{
     "id": 40,
     "theory": "Modern portfólióelmélet"
-  },
-  {
+},
+{
     "id": 41,
-    "theory": "CAPM modell"
-  },
-  {
+    "theory": "CAPM"
+},
+{
     "id": 42,
     "theory": "Indexbefektetés"
-  },
-  {
+},
+{
     "id": 43,
     "theory": "Reflexivitáselmélet"
-  },
-  {
+},
+{
     "id": 44,
     "theory": "Gazdasági gépezet-ciklusok"
-  },
-  {
+},
+{
     "id": 45,
     "theory": "r > g egyenlőtlenségi modell"
-  },
-  {
+},
+{
     "id": 46,
-    "theory": "Inkluzív vs extraktív intézmények"
-  },
-  {
+    "theory": "Inkluzív vs. extraktív intézmények"
+},
+{
     "id": 47,
     "theory": "Randomizált fejlesztési kísérletek"
-  },
-  {
+},
+{
     "id": 48,
-    "theory": "Mikrofinanszírozás"
-  },
-  {
+    "theory": "Fejlődési közgazdaságtani kísérletek"
+},
+{
     "id": 49,
-    "theory": "Ökonometria"
-  },
+    "theory": "Mikrofinanszírozás"
+},
   {
     "id": 50,
     "theory": "Tökéletlen verseny"
